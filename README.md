@@ -18,4 +18,5 @@ uint8_t * data;
 getSharedMem ( ( void ** ) &data, 10, 123456 );
 ```
 
-Use getSharedMeme insted of malloc to allocate x bytes of memory 
+Use getSharedMeme insted of malloc to allocate x bytes of memory
+
